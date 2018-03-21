@@ -1,0 +1,27 @@
+S:\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.exe.config
+S:\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.exe
+S:\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.pdb
+S:\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.csprojResolveAssemblyReference.cache
+S:\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.Customer.resources
+S:\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.Form1.resources
+S:\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.Properties.Resources.resources
+S:\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.csproj.GenerateResource.Cache
+S:\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.csproj.CoreCompileInputs.cache
+S:\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.exe
+S:\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.pdb
+S:\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.CustomerDetails.resources
+S:\Joe's Automotive\Joe's Automotive\bin\Debug\Parts.mdf
+S:\Joe's Automotive\Joe's Automotive\bin\Debug\Parts_log.ldf
+S:\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.Invoices.resources
+S:\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.NewInvoice.resources
+S:\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.Parts.resources
+S:\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.Vehicle.resources
+S:\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.VehicleDetails.resources
+S:\Joe's Automotive\Joe's Automotive\bin\Debug\Customer.mdf
+S:\Joe's Automotive\Joe's Automotive\bin\Debug\Customer_log.ldf
+S:\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.exe.manifest
+S:\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.application
+S:\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.exe.manifest
+S:\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.application
+S:\Joe's Automotive\Joe's Automotive\bin\Debug\Vehicles.mdf
+S:\Joe's Automotive\Joe's Automotive\bin\Debug\Vehicles_log.ldf
